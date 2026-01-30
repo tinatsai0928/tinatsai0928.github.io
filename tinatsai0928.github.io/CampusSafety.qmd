@@ -1,0 +1,7 @@
+---
+title: "Campus Safety Optimization"
+---
+
+```{=html}
+<iframe src="CampusSafety.pdf" width="100%" height="800px"></iframe>
+```

@@ -1,0 +1,108 @@
+---
+title: ""
+page-layout: full
+toc: true
+toc-location: body
+---
+
+
+::: {.page-wrap .project-page}
+# Project Experience
+
+::: {.lead .center-text}
+A selection of analytics, visualization, and data-driven projects,\
+with a focus on translating complex data into clear, actionable decisions.
+:::
+
+::: {.project-grid}
+
+::: {.project-card}
+<h3>Movie Review Sentiment Analysis & AI Chatbot</h3>
+
+::: {.meta}
+[KNIME]{.tag} [Text Analysis]{.tag} [Gen AI]{.tag}
+:::
+
+<ul>
+<li>Analyzed 2,200+ movie reviews using KNIME to identify 4 key market themes via word cloud analysis.</li>
+<li>Built a sentiment model achieving 64% accuracy to automate audience feedback monitoring and support brand perception analysis.</li>
+<li>Integrated Generative AI to develop a chatbot that answers user queries about movie reviews and evaluations.</li>
+</ul>
+:::
+
+::: {.project-card}
+<h3>Campus Safety Optimization (Microsoft Project)</h3>
+
+::: {.meta}
+[Power BI]{.tag} [Data Cleaning]{.tag} [Storytelling]{.tag}
+:::
+
+<ul>
+<li>Analyzed 500+ stakeholder feedback records to identify operational inefficiencies and resource gaps in campus safety services.</li>
+<li>Proposed a data-driven solution leveraging Azure and Microsoft Teams for real-time location tracking and incident reporting.</li>
+<li>Designed an interactive Power BI dashboard to visualize findings and deliver actionable insights to stakeholders.</li>
+</ul>
+
+::: {.note}
+Role: Microsoft Student Ambassador (Cohort 2, Fall 2025)
+:::
+:::
+
+::: {.project-card}
+<h3>Utilizing Big Data to Study the Potential Risk Factors in Human Liver Cancer</h3>
+
+::: {.meta}
+[R]{.tag} [ANOVA]{.tag} [Mann–Whitney U tests]{.tag} [Statistical Methods]{.tag}
+:::
+
+<ul>
+<li>Analyzed data from 600 individuals using R to identify key risk factors associated with liver cancer.</li>
+<li>Applied statistical methodologies including ANOVA and Mann–Whitney U tests to determine 3 statistically significant risk drivers.</li>
+</ul>
+:::
+
+::: {.project-card}
+<h3>Predicting Air Quality in Taiwan</h3>
+
+::: {.meta}
+[Python (scikit-learn, pandas)]{.tag} [Random Forest]{.tag} [SVM]{.tag}
+:::
+
+<ul>
+<li>Built predictive models using Python (scikit-learn, pandas) to forecast air quality levels with 79% accuracy, utilizing algorithms such as Random Forest and SVM for performance benchmarking.</li>
+<li>Designed a database-backed data pipeline to support data ingestion, cleaning, and analysis for air quality forecasting.</li>
+</ul>
+:::
+
+::: {.project-card}
+<h3>2025 DataWhiz Data Visualization Competition</h3>
+
+::: {.meta}
+[Power BI]{.tag} [Visualization]{.tag} [Business Insight]{.tag}
+:::
+
+<ul>
+<li>Processed and cleaned 88.3K data points to ensure data accuracy and integrity across multiple sources.</li>
+<li>Developed interactive Power BI dashboards and presented actionable insights to faculty, improving interpretation of analytical results.</li>
+</ul>
+:::
+
+:::
+<hr>
+
+# Leadership & Activities
+
+::: {.project-card}
+<h3>Taiwanese Student Association (UT Dallas) — Vice President</h3>
+
+::: {.meta}
+[Leadership]{.tag} [Event Operations]{.tag} [Community Building]{.tag}
+:::
+
+<ul>
+<li>Led planning and coordination for student organization events.</li>
+<li>Improved communication and execution quality across teams.</li>
+</ul>
+:::
+
+:::
