@@ -31,13 +31,13 @@
 
 .hero-header h1 {
   margin-bottom: 8px;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .hero-header h2 {
   margin-top: 0;
   font-weight: 500;
-  font-size: 2rem;
+  font-size: 1.35rem;
 }
 
 /* 三張圖的排版（自動置中、可換行） */
@@ -51,7 +51,7 @@
 
 /* 段落文字：分段＋呼吸 */
 .hero-text, .skills-text {
-  font-size: 1.5rem;
+  font-size: 1.15rem;
   line-height: 1.8;
   max-width: 750px;
   margin: 28px auto;
