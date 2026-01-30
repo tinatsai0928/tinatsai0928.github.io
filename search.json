@@ -9,8 +9,61 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tinatsai0928.github.io",
+    "title": "Tina Tsai",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Tina Tsai — a Data Analyst with a background in Business Analytics & AI. I enjoy traveling and reading, not just as hobbies, but as ways to observe people, systems, and patterns beyond data.\nI believe meaningful insights come from combining analytical rigor with real-world curiosity.\n\n\n\n  \n    \n      \n      Observing real-world systems\n    \n\n    \n      \n      Building structured thinking\n    \n\n    \n      \n      Turning patterns into decisions"
+  },
+  {
+    "objectID": "project_KNIME.html",
+    "href": "project_KNIME.html",
+    "title": "Movie Review Sentiment Analysis & AI Chatbot",
+    "section": "",
+    "text": "KNIME Screenshot",
+    "crumbs": [
+      "Project",
+      "NLP Movie Insights"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "About",
+    "section": "",
+    "text": "This is Tina Tsai’s profile.\n\nhist(mtcars$mpg)"
+  },
+  {
+    "objectID": "index.html#data-analyst-business-analytics-ai",
+    "href": "index.html#data-analyst-business-analytics-ai",
+    "title": "Tina Tsai",
+    "section": "",
+    "text": "Hi, I’m Tina Tsai. I recently graduated from the University of Texas at Dallas with a degree in Business Analytics & AI. I enjoy reading and traveling, and I believe that real learning comes from both knowledge and experience. I love discovering new things through hands-on work—especially when uncovering meaningful patterns and insights from data.\n\n\n  \n  \n  \n\n\nI build dashboards, clustering/NLP models, and forecasting & optimization solutions using Python, SQL, and Power BI. I enjoy translating data into clear, actionable decisions. Explore my projects and resume below."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project Experience",
+    "section": "",
+    "text": "A selection of analytics, visualization, and data-driven projects,\nwith a focus on translating complex data into clear, actionable decisions.\n\n\n\n\nMovie Review Sentiment Analysis & AI Chatbot\n\n\nKNIME Text Analysis Gen AI\n\n\n\nAnalyzed 2,200+ movie reviews using KNIME to identify 4 key market themes via word cloud analysis.\n\n\nBuilt a sentiment model achieving 64% accuracy to automate audience feedback monitoring and support brand perception analysis.\n\n\nIntegrated Generative AI to develop a chatbot that answers user queries about movie reviews and evaluations.\n\n\n\n\n\nCampus Safety Optimization (Microsoft Project)\n\n\nPower BI Data Cleaning Storytelling\n\n\n\nAnalyzed 500+ stakeholder feedback records to identify operational inefficiencies and resource gaps in campus safety services.\n\n\nProposed a data-driven solution leveraging Azure and Microsoft Teams for real-time location tracking and incident reporting.\n\n\nDesigned an interactive Power BI dashboard to visualize findings and deliver actionable insights to stakeholders.\n\n\n\nRole: Microsoft Student Ambassador (Cohort 2, Fall 2025)\n\n\n\n\nUtilizing Big Data to Study the Potential Risk Factors in Human Liver Cancer\n\n\nR ANOVA Mann–Whitney U tests Statistical Methods\n\n\n\nAnalyzed data from 600 individuals using R to identify key risk factors associated with liver cancer.\n\n\nApplied statistical methodologies including ANOVA and Mann–Whitney U tests to determine 3 statistically significant risk drivers.\n\n\n\n\n\nPredicting Air Quality in Taiwan\n\n\nPython (scikit-learn, pandas) Random Forest SVM\n\n\n\nBuilt predictive models using Python (scikit-learn, pandas) to forecast air quality levels with 79% accuracy, utilizing algorithms such as Random Forest and SVM for performance benchmarking.\n\n\nDesigned a database-backed data pipeline to support data ingestion, cleaning, and analysis for air quality forecasting.\n\n\n\n\n\n2025 DataWhiz Data Visualization Competition\n\n\nPower BI Visualization Business Insight\n\n\n\nProcessed and cleaned 88.3K data points to ensure data accuracy and integrity across multiple sources.\n\n\nDeveloped interactive Power BI dashboards and presented actionable insights to faculty, improving interpretation of analytical results.\n\n\n\n\n\n\n\nLeadership & Activities\n\n\nTaiwanese Student Association (UT Dallas) — Vice President\n\n\nLeadership Event Operations Community Building\n\n\n\nLed planning and coordination for student organization events.\n\n\nImproved communication and execution quality across teams.\n\n\n\n:::"
+  },
+  {
+    "objectID": "project.html#leadership-activities-selected",
+    "href": "project.html#leadership-activities-selected",
+    "title": "Project Experience",
+    "section": "",
+    "text": "&lt;span class=\"tag\"&gt;Leadership&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Event Operations&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Community Building&lt;/span&gt;\n\n\n\nLed planning and coordination for student activities and cross-organization collaboration.\n\n\nImproved communication workflows and execution quality for community events.\n\n\n\n\n\n\n&lt;span class=\"tag\"&gt;Azure&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Power BI&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Product Thinking&lt;/span&gt;\n\n\n\nExplored Microsoft technologies (Azure, Power BI, Copilot) to propose data-driven solutions for campus needs.\n\n\nCollaborated with a student innovation team to present solution ideas with clear business impact."
+  },
+  {
+    "objectID": "project.html#leadership-activities",
+    "href": "project.html#leadership-activities",
+    "title": "Project Experience",
+    "section": "",
+    "text": "Leadership Event Operations Community Building\n\n\n\nLed planning and coordination for student organization events.\n\n\nImproved communication and execution quality across teams.\n\n\n\n::::::::::::::::\n::::::::::::::::::::::::"
+  },
+  {
+    "objectID": "index.html#data-analyst-business-analytics-ai-curiosity-driven",
+    "href": "index.html#data-analyst-business-analytics-ai-curiosity-driven",
+    "title": "Tina Tsai",
+    "section": "",
+    "text": "Hi, I’m Tina Tsai — a Data Analyst with a background in Business Analytics & AI. I enjoy traveling and reading, not just as hobbies, but as ways to observe people, systems, and patterns beyond data.\n\n\nI believe meaningful insights come from combining analytical rigor with real-world curiosity.\n\n\n  \n    \n      \n      Observing real-world systems\n    \n\n    \n      \n      Building structured thinking\n    \n\n    \n      \n      Turning patterns into decisions\n    \n  \n\n\nI build dashboards, clustering & NLP models, and forecasting and optimization solutions using Python, SQL, and Power BI.\n\n\nI enjoy translating data into clear, actionable decisions."
   }
 ]
