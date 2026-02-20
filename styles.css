@@ -188,10 +188,20 @@
   opacity: 1;
 }
 
-/* Mobile */
+/* 手機版設定：當螢幕小於 1100px 時強制單欄 */
 @media (max-width: 1100px) {
-  body.project-page .project-grid {
-    grid-template-columns: 1fr;
+  .project-page .project-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* 電腦版設定：大螢幕時保持多欄 (例如三欄) */
+@media (min-width: 1101px) {
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
   }
 }
 
